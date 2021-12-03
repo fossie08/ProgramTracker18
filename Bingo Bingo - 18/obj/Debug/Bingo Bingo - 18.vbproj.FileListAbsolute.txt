@@ -1,0 +1,5 @@
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Bingo Bingo - 18\Bingo Bingo - 18\bin\Debug\Bingo Bingo - 18.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Bingo Bingo - 18\Bingo Bingo - 18\bin\Debug\Bingo Bingo - 18.pdb
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Bingo Bingo - 18\Bingo Bingo - 18\obj\Debug\Bingo Bingo - 18.vbprojResolveAssemblyReference.cache
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Bingo Bingo - 18\Bingo Bingo - 18\obj\Debug\Bingo Bingo - 18.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Bingo Bingo - 18\Bingo Bingo - 18\obj\Debug\Bingo Bingo - 18.pdb
